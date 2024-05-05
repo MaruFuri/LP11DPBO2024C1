@@ -12,7 +12,7 @@ telepon yang sudah ada pada database.
 1. Saat pertama kali diakses, program akan ditampilkan pada halaman home  
 2. User akan menambahkan data baru dengan menekan tombol "add" dan akan diarahkan ke halaman form  
 3. User yang telah mengisi form akan ditampilkan data nya di halaman home  
-4. User dapat melakukan edit dengan menekan tombol edit, user akan diarahkan ke halaman form dan dapat melakukan pengeditan data
+4. User dapat melakukan edit dengan menekan tombol update, user akan diarahkan ke halaman form dan dapat melakukan pengeditan data
 5. User yang telah mengedit dapat menekan tombol edit untuk konfirmasi pengedita, data akan ditampilkan di home  
 
 https://github.com/MaruFuri/LP11DPBO2024C1/assets/100757350/b2540386-66bc-4283-9ff6-d18ee0fbce1e
